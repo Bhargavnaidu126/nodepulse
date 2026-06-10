@@ -1,0 +1,5 @@
+node_modules/
+.nodepulse/
+dist/
+*.log
+.env

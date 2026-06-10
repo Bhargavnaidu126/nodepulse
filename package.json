@@ -1,0 +1,9 @@
+{
+  "name": "nodepulse-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "nodepulse-core",
+    "test-app"
+  ]
+}
